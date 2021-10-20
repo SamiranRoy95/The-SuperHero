@@ -1,0 +1,11 @@
+[
+    {"key":1,"name":"Rupert Murdoch", "country":"USA","ceo":"Fox News","age":90,"salary":25000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5RcWgP4ETmUUkCkpkddxTswRhnZGQifolNmDs3vI&usqp=CAE&s"},
+    {"key":2,"name":"Justin C. Dearborn","country":"USA","ceo":" the Tribune Publishing ","age":50,"salary":100000,"image":"https://mms.businesswire.com/media/20160223005931/en/510732/5/J_Dearborn.jpg"},
+    {"key":3,"name":"Kirk A. Davis","country":"USA","ceo":"GateHouse Media ","age":65,"salary":100000,"image":"https://di-uploads-pod24.dealerinspire.com/billionchryslerjeepdodgeramfiat/uploads/2020/01/Kirk_davis-web-356x356.jpg"},
+    {"key":4,"name":"Rebekah Brooks","country":"UK","ceo":"News UK","age":53,"salary":100000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzaTu687nfWWsm1kasWiVhBK8xjxolzY0pg&usqp=CAU"},
+    {"key":5,"name":"Robert Thomson","country":"UK","ceo":"News Corp","age":60,"salary":100000,"image":"https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1448863029/tucroej045rqekuinood.png"},
+    {"key":6,"name":"James Murdoch","country":"UK","ceo":"21st Century Fox","age":48,"salary":100000,"image":"https://variety.com/wp-content/uploads/2020/10/james-murdoch.jpg?w=636"},
+    {"key":7,"name":"Vineet Jain","country":"India","ceo":"The Times Group ","age":90,"salary":100000,"image":"https://static.toiimg.com/thumb/64218657.cms?width=170&height=240"},
+    {"key":8,"name":"Mathias Döpfner","country":"USA","ceo":" media group Axel  ","age":58,"salary":100000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJXGpLIFOBe8PVvgJtPsbP2IzC7Uoe2QFHg&usqp=CAUttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5RcWgP4ETmUUkCkpkddxTswRhnZGQifolNmDs3vI&usqp=CAE&s"},
+    {"key":9,"name":" Thomson Reuters","country":"Canada","ceo":" Reuters Agency","age":58,"salary":300000,"image":"https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495014623&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG1O0YC"}
+]

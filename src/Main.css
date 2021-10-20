@@ -1,0 +1,29 @@
+.main__component{
+
+   
+    height: 500px;
+    width: 97%;
+    margin:10px;
+    display: flex;
+    margin:auto;
+}
+.profile__container{
+    width:78%;
+    
+    margin-left:10px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    border-right: 1px solid lightgray;
+    height: auto;
+}
+.card__component{
+margin-top: 13px;
+width:18%;
+background-color: rgba(211, 211, 211, 0.534);
+border-radius: 5px;
+border:1px solid lightgray;
+padding: 5px;
+
+
+}

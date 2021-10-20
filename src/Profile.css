@@ -1,0 +1,28 @@
+.profile{
+
+    background-color:rgba(211, 211, 211, 0.685);
+    width:270px;
+    border:2px solid rgba(211, 211, 211, 0.603);
+    height: 440px;
+    border-radius: 5px;
+    padding:5px;
+    margin:10px;
+    
+    
+
+}
+.logo{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+}
+.btn{
+    margin-left: 38px;
+    background-color:rgba(20, 220, 103, 0.329);
+    padding: 5px;
+    border:1px solid blue;
+    border-radius: 5px;
+    font-size:15px;
+    cursor: pointer;
+}

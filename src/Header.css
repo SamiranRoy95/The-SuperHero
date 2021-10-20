@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    /* margin:auto; */
+    background-color: rgba(0, 255, 0, 0.376);
+    border:1px solid rgba(50, 20, 220, 0.24);
+    border-radius: 4px;
+}
+.ceo{
+    color:blue;
+    
+}
+.bugget{
+
+    color:crimson;
+}
